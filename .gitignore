@@ -1,0 +1,7 @@
+# Populate this file with appropriate values
+
+# Ignore files created by JetBrains IDE
+.idea/
+*.tfstate*
+*.terraform
+*.zip
